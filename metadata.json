@@ -1,0 +1,6 @@
+{
+  "name": "Mahjong Pavilion",
+  "description": "Play authentic 4-player Mahjong against intelligent bots or real-time multiplayer with ranked leaderboards and in-depth player statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
